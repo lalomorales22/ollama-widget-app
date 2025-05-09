@@ -51,17 +51,13 @@ A feature-rich desktop application for interacting with local Ollama models. Thi
 ## Usage
 
 1.  **Ensure Ollama is running:**
-    Open your terminal and start the Ollama service if it's not already active:
-    ```bash
-    ollama serve
-    ```
-    And make sure you have pulled models (e.g., `ollama pull llama3`).
+
 
 2.  **Run the application:**
     ```bash
-    python ollama_advanced_chat.py
+    python app.py
     ```
-    (Assuming the main script is named `ollama_advanced_chat.py` as per our development.)
+
 
 3.  **Interacting with the App:**
     * Use the "➕ New Chat" button to start new conversations.

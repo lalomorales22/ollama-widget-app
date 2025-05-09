@@ -2,9 +2,10 @@
 
 **Version:** 1.1.0
 
+
 A feature-rich desktop application for interacting with local Ollama models. This Python-based app provides a tabbed interface for managing multiple conversations, supports vision (image attachments), RAG (PDF/TXT document context), speech-to-text (Whisper/Sphinx), and stores all chat history persistently in an SQLite database.
 
-![App Screenshot (Placeholder - consider adding one to your repo!)](https://placehold.co/600x400/2E3440/ECEFF4?text=Ollama+App+Screenshot)
+![Screenshot 2025-05-09 at 9 57 58 AM](https://github.com/user-attachments/assets/c0fda04f-23b8-45f1-8015-791e6090ffbc)
 
 ## Features
 

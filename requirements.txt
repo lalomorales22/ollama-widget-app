@@ -1,0 +1,6 @@
+PyQt5
+requests
+PyPDF2
+SpeechRecognition
+Pillow
+openai-whisper

@@ -32,7 +32,7 @@ A feature-rich desktop application for interacting with local Ollama models. Thi
 
 1.  **Clone the repository (or download the script):**
     ```bash
-    git clone [https://github.com/lalomorales22/ollama-widget-app.git](https://github.com/lalomorales22/ollama-widget-app.git)
+    git clone https://github.com/lalomorales22/ollama-widget-app.git
     cd ollama-widget-app
     ```
 
